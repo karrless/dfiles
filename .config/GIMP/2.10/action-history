@@ -1,7 +1,7 @@
 # GIMP action-history
 
 (history-item "image-new" 0)
-(history-item "view-zoom-revert" 0)
 (history-item "file-quit" 1)
+(history-item "view-zoom-revert" 1)
 
 # end of action-history

@@ -4,7 +4,7 @@ super + Return
 	kitty
 # Браузер
 super + b
-	qutebrowser
+	firefox
 # Лаунчер dmenu
 super + @space
 	dmenu_run
@@ -19,7 +19,7 @@ super + z
     betterlockscreen -l blur
 
 super + r
-	rofi -show
+	rofi -modi drun -show drun
 	
 ################## BSPWM/SXHKD ##################
 # Выйти/перезапустить bspwm
